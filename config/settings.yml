@@ -1,0 +1,4 @@
+plugins:
+  category_lockdown_enabled:
+    default: false
+    client: true

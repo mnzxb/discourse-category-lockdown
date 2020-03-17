@@ -1,0 +1,5 @@
+modified from https://github.com/davidtaylorhq/discourse-category-lockdown/
+
+now it locks down file access
+
+only tested with files uploaded to s3 with 'secure media' enabled, probably won't work otherwise
